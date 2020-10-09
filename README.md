@@ -28,7 +28,7 @@ MIVisionX toolkit is a set of comprehensive computer vision and machine intellig
 * [Docker](#docker)
 * [Release Notes](#release-notes)
 
-## AMD OpenVX
+### AMD OpenVX
 
 <p align="center"><img width="30%" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/OpenVX_logo.svg/1920px-OpenVX_logo.svg.png" /></p>
 
